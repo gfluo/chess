@@ -1,0 +1,28 @@
+{
+  "name": "chess",
+  "version": "1.0.0",
+  "description": "ws server",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gfluo/chess.git"
+  },
+  "keywords": [
+    "websocket",
+    "server",
+    "for",
+    "chessCard"
+  ],
+  "author": "zoroshow@outlook.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gfluo/chess/issues"
+  },
+  "homepage": "https://github.com/gfluo/chess#readme",
+  "dependencies": {
+    "ws": "^3.2.0"
+  }
+}
